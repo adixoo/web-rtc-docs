@@ -1,4 +1,4 @@
-# TranslateConf - Real-time Translation Video Conferencing
+# NexTalk - Real-time Translation Video Conferencing
 
 A comprehensive video conferencing application with real-time translation capabilities, built with WebRTC for peer-to-peer communication.
 
